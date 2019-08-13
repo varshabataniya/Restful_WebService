@@ -1,0 +1,15 @@
+package com.zensar.daos;
+
+
+/*Author: Varsha B
+ * Creation Date: 26th July 2019 10.05 AM
+ * Modified Date: 26th July 2019 10.05 AM
+ * Version: 2.0
+ * Copyright: Zensar Technologies. All rights reserved.
+ * Description: Data Access Object Interface Implementor.
+ * It is uses HibernateAPI to access Product Data from Database.
+ */
+
+public class ProductDaoImpl implements ProductDao {
+
+}
